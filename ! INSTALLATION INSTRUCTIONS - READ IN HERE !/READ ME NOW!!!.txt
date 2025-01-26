@@ -37,3 +37,50 @@ Have fun \o
 
 
 
+**Wenn du diese Datei selbst entpackt hast, sind diese Anweisungen für dich. Wenn Bento Buddy bereits in Blender installiert und funktionsfähig ist, ignoriere diese Meldung.**
+
+Wenn du einen Mac benutzt, hat der Webbrowser, den du zum Herunterladen von Bento Buddy verwendet hast, die Datei möglicherweise entpackt, was in diesem Zustand nicht installiert werden kann. Eine schnelle Lösung besteht darin, diesen Ordner zu finden und wieder zu zippen und ihn als Installationsmedium zu verwenden.
+
+---
+
+**Installation**
+
+Hier ist ein Video, das zeigt, wie man das Addon in Blender installiert.
+https://youtu.be/BdYouLPaxGA
+
+---
+
+**Dem Discord-Server beitreten**
+
+Dies ist die beste Option für Support, aber wir halten auch in der virtuellen Welt Ausschau, wenn wir können. Höchstwahrscheinlich reagieren wir schneller auf Discord.
+http://critters.xyz/discord
+
+---
+
+**Der Gruppe beitreten**
+
+Du möchtest vielleicht der Support-Gruppe „Bento Buddy“ beitreten. Um den Zugang zu erleichtern, habe ich ein Objekt beigefügt, das dir einen Link zur Gruppe gibt. Rezze oder trage das Objekt „Bento Buddy - group Join (touch / rez)“.
+
+---
+
+**TEXTANLEITUNG**
+
+Gehe zu der angegebenen Website: https://critters.xyz/bentobuddy
+
+Melde dich auf der Website an. Dein vollständiger Second Life Name ist dein Benutzername zum Einloggen. Dieser wurde dir gezeigt, als du dich in der virtuellen Welt registriert hast. Wenn du keinen Legacy-Benutzernamen hast, lautet dein Nachname „Resident“, der normalerweise nicht in SL für dich sichtbar ist. Nach dem Login erhältst du einen Download-Bildschirm, auf dem du dein Produkt herunterladen kannst.
+
+Wenn du die Namensänderungsfunktion von Linden Labs verwendet hast (nicht die Anzeigennamen), könnte der Prozess dich verwirren und du musst den Namen verwenden, der dir nach der Registrierung deines Produkts zugewiesen wurde. Die Informationen werden an dein lokales Fenster gesendet. Der Name, den du registrierst, stammt aus SL und kann für den Zugang zu Bento Buddy nicht geändert werden, auch wenn du deinen In-World-Namen änderst.
+
+Um dein Passwort zu ändern, rezze oder trage den Artikel „Bento Buddy - password change and account Info“ und tippe /4 passwort_hier
+
+Verwende nicht das Wort „passwort_hier“, erstelle dein eigenes Passwort.
+
+Um deine Download-Berechtigungen zu verlängern, kannst du Bento Buddy erneut kaufen, was es dir ermöglicht, dein Tool auf dem neuesten Stand zu halten, indem du ein zusätzliches Jahr Support pro Kauf hinzufügst.
+https://critters.xyz/mp
+
+Viel Spaß \o
+
+---
+
+**- BinBash Resident**
+
